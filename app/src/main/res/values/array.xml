@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="problema">
+        <item>Seleccione el problema</item>
+        <item>Tratamiento</item>
+        <item>Control de insectos</item>
+    </string-array>
+
+    <string-array name="especie_plantas">
+        <item>Seleccione la especie</item>
+        <item>Rosas</item>
+        <item>Flores Acidas</item>
+        <item>Cesped</item>
+        <item>Flores de Jardín y Plantas de Maceteros</item>
+
+        //si selecciona arbustos o Arboles frutales muestra crecimiento generico
+        <item>Arbustos</item>
+        <item>Arboles Frutales</item>
+
+    </string-array>
+
+    <string-array name="especie_insectos">
+        <item>Seleccione la especie de insecto</item>
+        <item>Escamas</item>
+        <item>Arañita Roja</item>
+        <item>Chanchito Blanco</item>
+        <item>Langostinos</item>
+        <item>Mosquita Blanca</item>
+        <item>Trips entre otros insectos chupadores y masticadores</item>
+        <item>Pulgones</item>
+        <item>Conchuelas</item>
+    </string-array>
+
+    <string-array name="etapa_crecimiento_especifico">
+        <item>Seleccione la etapa de crecimiento</item>
+        <item>Plantas más de 1 año</item>
+        <item>Plantas nuevas</item>
+    </string-array>
+
+    <string-array name="etapa_crecimiento_generico">
+        <item>Seleccione la etapa de crecimiento</item>
+        <item>Adulto, ya establecido</item>
+        <item>Pleno crecimiento</item>
+        <item>Recien transplantados</item>
+    </string-array>
+
+    <string-array name="aplicacion">
+        <item>Seleccione el tipo de aplicacion</item>
+        <item>Preventiva</item>
+        <item>Curativa</item>
+    </string-array>
+
+</resources>

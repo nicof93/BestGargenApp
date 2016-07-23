@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/cesped_fondo">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="8dp">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:orientation="vertical"
+
+            android:background="@drawable/border_spinners">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imgInsectoCasa"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_gravity="center"
+                    android:layout_margin="4dp"
+                    android:background="#000000"
+                    android:padding="1dp"/>
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/lblEspecieHogar"
+                    android:layout_width="fill_parent"
+                    android:textColor="@color/white"
+                    android:textStyle="bold"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2.2"
+                    android:gravity="center"
+                    android:text="Especies hogar"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:layout_margin="4dp"
+                    android:background="@drawable/bordes_titulos"/>
+
+                <TextView
+                    android:id="@+id/txtEspecieHogar"
+                    android:layout_width="fill_parent"
+                    android:textColor="@color/white"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2.2"
+                    android:gravity="center"
+                    android:text="@string/especie"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:layout_margin="4dp"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/lblProductoSugRsp"
+                    android:layout_width="fill_parent"
+                    android:textColor="@color/white"
+                    android:textStyle="bold"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2.2"
+                    android:gravity="center"
+                    android:text="Producto sugerido"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:layout_margin="4dp"
+                    android:background="@drawable/bordes_titulos"/>
+
+                <TextView
+                    android:id="@+id/txtProductoSug"
+                    android:layout_width="fill_parent"
+                    android:textColor="@color/white"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2.2"
+                    android:gravity="center"
+                    android:text="@string/producto_sugerido"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:layout_margin="4dp"/>
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="178dp"
+                    android:layout_gravity="center"
+                    android:id="@+id/imgRecomendadoHogar"
+                    android:src="@drawable/fertilizante_especifico"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/lblObjetivoRsp"
+                    android:layout_width="fill_parent"
+                    android:textColor="@color/white"
+                    android:textStyle="bold"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2.2"
+                    android:gravity="center"
+                    android:text="Objetivo del producto"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:layout_margin="4dp"
+                    android:background="@drawable/bordes_titulos"/>
+
+                <TextView
+                    android:id="@+id/txtObjetivoHogar"
+                    android:layout_width="fill_parent"
+                    android:textColor="@color/white"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2.2"
+                    android:gravity="center"
+                    android:text="@string/objetivo"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:layout_margin="4dp"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/lblProductoSugRsp"
+                    android:layout_width="fill_parent"
+                    android:textColor="@color/white"
+                    android:textStyle="bold"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="Etapa de crecimiento"
+                    android:background="@drawable/bordes_titulos"
+                    android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center">
+
+                    <info.hoang8f.android.segmented.SegmentedGroup
+                        android:id="@+id/rbEtapas"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="10dp"
+                        android:orientation="horizontal">
+
+                        <RadioButton
+                            android:id="@+id/rbtAplicacionHogar"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Datos de Aplicación"
+                            android:checked="true"
+                            style="@style/RadioButton" />
+
+                    </info.hoang8f.android.segmented.SegmentedGroup>
+                </LinearLayout>
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_gravity="center"
+                android:layout_margin="5dp">
+
+                <TableLayout
+                    android:id="@+id/tablaAplicacion"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:background="@drawable/table_border"
+                    android:visibility="visible">
+
+                    <!--Fila de cabecera-->
+                    <TableRow
+                        android:id="@+id/Cabecera"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/cell_shape">
+
+                        <TextView
+                            android:id="@+id/ColumnaDosis"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:padding="5dp"
+                            android:layout_weight="1"
+                            android:text="Dosificación"
+                            android:textColor="@color/white"/>
+
+                        <TextView
+                            android:id="@+id/ColumnaSuperficie"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:padding="5dp"
+                            android:layout_weight="1"
+                            android:text="Frecuencia"
+                            android:textColor="@color/white"/>
+                    </TableRow>
+
+                    <!--Columna con txt para setear y mostrar datos-->
+                    <TableRow
+                        android:id="@+id/columnaRellenar"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <!--txt con dosificacion-->
+                        <TextView
+                            android:id="@+id/txtDosis"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal"
+                            android:padding="5dp"
+                            android:lines="3"
+                            android:text="10 cc/lt agua"
+                            android:layout_weight="1"
+                            android:textColor="@color/white"/>
+
+                        <!--txt con superficie de rendimiento del envase-->
+                        <TextView
+                            android:id="@+id/txtRendimiento"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:padding="5dp"
+                            android:layout_weight="1"
+                            android:text="2 veces a la semana"
+                            android:textColor="@color/white"/>
+                    </TableRow>
+                </TableLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/lnRecomendacion"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:layout_gravity="center"
+                android:layout_margin="5dp">
+                <TextView
+                    android:id="@+id/txtTitRecomendacion"
+                    android:layout_width="match_parent"
+                    android:textColor="@color/white"
+                    android:textStyle="bold"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2.2"
+                    android:gravity="center"
+                    android:text="Recomendaciones"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:layout_margin="4dp"
+                    android:background="@drawable/bordes_titulos"/>
+
+                <TextView
+                    android:id="@+id/txtRecom"
+                    android:layout_width="fill_parent"
+                    android:textColor="@color/white"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2.2"
+                    android:gravity="center"
+                    android:text="se recomienda...."
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:layout_margin="4dp"/>
+             </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

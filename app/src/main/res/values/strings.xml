@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Best Garden</string>
+    <string name="title">Best Garden</string>
+    <string name="action_settings">Settings</string>
+    <string name="nombrePlagalabel">Nombre</string>
+    <string name="especie">Descripción de plantas que aceptan el
+                            producto;
+    </string>
+    <string name="problema">Tratamiento</string>
+    <string name="producto_sugerido">Fertilizante Sugerido</string>
+    <string name="objetivo">Mejorar coloracion verde en hojas, aumentar floracion, etc</string>
+
+</resources>

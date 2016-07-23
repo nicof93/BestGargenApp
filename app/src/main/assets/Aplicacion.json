@@ -1,0 +1,1836 @@
+[
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"120 g / árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Adulto, ya establecido",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":0
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"120 g / árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Adulto, ya establecido",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":0
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"70 g / árbol",
+    "frecuencia":"cada 20 a 25 días",
+    "etapa":"Adulto, ya establecido",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":0
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"70 g / árbol",
+    "frecuencia":"1 vez al mes",
+    "etapa":"Adulto, ya establecido",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":0
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"90 g / árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Pleno crecimiento",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":0
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"90 g / árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Pleno crecimiento",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":0
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"50 g / árbol",
+    "frecuencia":"cada 20 a 25 días",
+    "etapa":"Pleno crecimiento",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":0
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"50 g / árbol",
+    "frecuencia":"1 vez al mes",
+    "etapa":"Pleno crecimiento",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":0
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"60 g por árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Recien transplantados",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":0
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"60 g por árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Recien transplantados",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":0
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"30 g por árbol",
+    "frecuencia":"cada 20 a 25 días",
+    "etapa":"Recien transplantados",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":0
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"30 g por árbol",
+    "frecuencia":"1 vez al mes",
+    "etapa":"Recien transplantados",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":0
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"120 g / árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Adulto, ya establecido",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":1
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"120 g / árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Adulto, ya establecido",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":1
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"70 g / árbol",
+    "frecuencia":"cada 20 a 25 días",
+    "etapa":"Adulto, ya establecido",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":1
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"70 g / árbol",
+    "frecuencia":"1 vez al mes",
+    "etapa":"Adulto, ya establecido",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":1
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"90 g / árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Pleno crecimiento",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":1
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"90 g / árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Pleno crecimiento",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":1
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"50 g / árbol",
+    "frecuencia":"cada 20 a 25 días",
+    "etapa":"Pleno crecimiento",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":1
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"50 g / árbol",
+    "frecuencia":"1 vez al mes",
+    "etapa":"Pleno crecimiento",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":1
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"60 g por árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Recien transplantados",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":1
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"60 g por árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Recien transplantados",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":1
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"30 g por árbol",
+    "frecuencia":"cada 20 a 25 días",
+    "etapa":"Recien transplantados",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":1
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"30 g por árbol",
+    "frecuencia":"1 vez al mes",
+    "etapa":"Recien transplantados",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":1
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"120 g / árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Adulto, ya establecido",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":2
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"120 g / árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Adulto, ya establecido",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":2
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"70 g / árbol",
+    "frecuencia":"cada 20 a 25 días",
+    "etapa":"Adulto, ya establecido",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":2
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"70 g / árbol",
+    "frecuencia":"1 vez al mes",
+    "etapa":"Adulto, ya establecido",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":2
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"90 g / árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Pleno crecimiento",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":2
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"90 g / árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Pleno crecimiento",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":2
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"50 g / árbol",
+    "frecuencia":"cada 20 a 25 días",
+    "etapa":"Pleno crecimiento",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":2
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"50 g / árbol",
+    "frecuencia":"1 vez al mes",
+    "etapa":"Pleno crecimiento",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":2
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"60 g por árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Recien transplantados",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":2
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"60 g por árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Recien transplantados",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":2
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"30 g por árbol",
+    "frecuencia":"cada 20 a 25 días",
+    "etapa":"Recien transplantados",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":2
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"30 g por árbol",
+    "frecuencia":"1 vez al mes",
+    "etapa":"Recien transplantados",
+    "id_planta":0,
+    "id_plaga":"",
+    "id_producto":2
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"100 g / árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Adulto, ya establecido",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":0
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"100 g / árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Adulto, ya establecido",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":0
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"60 g / árbol",
+    "frecuencia":"cada 20 a 25 días",
+    "etapa":"Adulto, ya establecido",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":0
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"60 g / árbol",
+    "frecuencia":"1 vez al mes",
+    "etapa":"Adulto, ya establecido",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":0
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"80 g / árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Pleno crecimiento",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":0
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"80 g / árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Pleno crecimiento",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":0
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"50 g / árbol",
+    "frecuencia":"cada 20 a 25 días",
+    "etapa":"Pleno crecimiento",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":0
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"50 g / árbol",
+    "frecuencia":"1 vez al mes",
+    "etapa":"Pleno crecimiento",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":0
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"30 g por árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Recien transplantados",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":0
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"30 g por árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Recien transplantados",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":0
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"15 g por árbol",
+    "frecuencia":"cada 20 a 25 días",
+    "etapa":"Recien transplantados",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":0
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"15 g por árbol",
+    "frecuencia":"1 vez al mes",
+    "etapa":"Recien transplantados",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":0
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"100 g / árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Adulto, ya establecido",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":1
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"100 g / árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Adulto, ya establecido",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":1
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"60 g / árbol",
+    "frecuencia":"cada 20 a 25 días",
+    "etapa":"Adulto, ya establecido",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":1
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"60 g / árbol",
+    "frecuencia":"1 vez al mes",
+    "etapa":"Adulto, ya establecido",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":1
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"80 g / árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Pleno crecimiento",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":1
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"80 g / árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Pleno crecimiento",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":1
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"50 g / árbol",
+    "frecuencia":"cada 20 a 25 días",
+    "etapa":"Pleno crecimiento",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":1
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"50 g / árbol",
+    "frecuencia":"1 vez al mes",
+    "etapa":"Pleno crecimiento",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":1
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"30 g por árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Recien transplantados",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":1
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"30 g por árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Recien transplantados",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":1
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"15 g por árbol",
+    "frecuencia":"cada 20 a 25 días",
+    "etapa":"Recien transplantados",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":1
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"15 g por árbol",
+    "frecuencia":"1 vez al mes",
+    "etapa":"Recien transplantados",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":1
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"100 g / árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Adulto, ya establecido",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":2
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"100 g / árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Adulto, ya establecido",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":2
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"60 g / árbol",
+    "frecuencia":"cada 20 a 25 días",
+    "etapa":"Adulto, ya establecido",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":2
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"60 g / árbol",
+    "frecuencia":"1 vez al mes",
+    "etapa":"Adulto, ya establecido",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":2
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"80 g / árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Pleno crecimiento",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":2
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"80 g / árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Pleno crecimiento",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":2
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"50 g / árbol",
+    "frecuencia":"cada 20 a 25 días",
+    "etapa":"Pleno crecimiento",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":2
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"50 g / árbol",
+    "frecuencia":"1 vez al mes",
+    "etapa":"Pleno crecimiento",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":2
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"30 g por árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Recien transplantados",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":2
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"30 g por árbol",
+    "frecuencia":"cada 15 días",
+    "etapa":"Recien transplantados",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":2
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"15 g por árbol",
+    "frecuencia":"cada 20 a 25 días",
+    "etapa":"Recien transplantados",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":2
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"15 g por árbol",
+    "frecuencia":"1 vez al mes",
+    "etapa":"Recien transplantados",
+    "id_planta":1,
+    "id_plaga":"",
+    "id_producto":2
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"80 g",
+    "frecuencia":"cada 15 días",
+    "etapa":"Plantas más de 1 año",
+    "id_planta":2,
+    "id_plaga":"",
+    "id_producto":3
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"40 g",
+    "frecuencia":"cada 15 días",
+    "etapa":"Plantas más de 1 año",
+    "id_planta":2,
+    "id_plaga":"",
+    "id_producto":3
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"25 g",
+    "frecuencia":"cada 20 a 25 días",
+    "etapa":"Plantas más de 1 año",
+    "id_planta":2,
+    "id_plaga":"",
+    "id_producto":3
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"20 g",
+    "frecuencia":"1 vez al mes",
+    "etapa":"Plantas más de 1 año",
+    "id_planta":2,
+    "id_plaga":"",
+    "id_producto":3
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"30 g",
+    "frecuencia":"cada 15 días",
+    "etapa":"Plantas nuevas",
+    "id_planta":2,
+    "id_plaga":"",
+    "id_producto":3
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"30 g",
+    "frecuencia":"cada 15 días",
+    "etapa":"Plantas nuevas",
+    "id_planta":2,
+    "id_plaga":"",
+    "id_producto":3
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"10 g",
+    "frecuencia":"cada 20 a 25 días",
+    "etapa":"Plantas nuevas",
+    "id_planta":2,
+    "id_plaga":"",
+    "id_producto":3
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"10 g",
+    "frecuencia":"1 vez al mes",
+    "etapa":"Plantas nuevas",
+    "id_planta":2,
+    "id_plaga":"",
+    "id_producto":3
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"80 g",
+    "frecuencia":"cada 15 días",
+    "etapa":"Plantas más de 1 año",
+    "id_planta":3,
+    "id_plaga":"",
+    "id_producto":4
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"40 g",
+    "frecuencia":"cada 15 días",
+    "etapa":"Plantas más de 1 año",
+    "id_planta":3,
+    "id_plaga":"",
+    "id_producto":4
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"25 g",
+    "frecuencia":"cada 20 a 25 días",
+    "etapa":"Plantas más de 1 año",
+    "id_planta":3,
+    "id_plaga":"",
+    "id_producto":4
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"20 g",
+    "frecuencia":"1 vez al mes",
+    "etapa":"Plantas más de 1 año",
+    "id_planta":3,
+    "id_plaga":"",
+    "id_producto":4
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"30 g",
+    "frecuencia":"cada 15 días",
+    "etapa":"Plantas nuevas",
+    "id_planta":3,
+    "id_plaga":"",
+    "id_producto":4
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"30 g",
+    "frecuencia":"cada 15 días",
+    "etapa":"Plantas nuevas",
+    "id_planta":3,
+    "id_plaga":"",
+    "id_producto":4
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"10 g",
+    "frecuencia":"cada 20 a 25 días",
+    "etapa":"Plantas nuevas",
+    "id_planta":3,
+    "id_plaga":"",
+    "id_producto":4
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"10 g",
+    "frecuencia":"1 vez al mes",
+    "etapa":"Plantas nuevas",
+    "id_planta":3,
+    "id_plaga":"",
+    "id_producto":4
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"40 g/m2",
+    "frecuencia":"cada 15 días",
+    "etapa":"Plantas más de 1 año",
+    "id_planta":4,
+    "id_plaga":"",
+    "id_producto":5
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"40 g/m2",
+    "frecuencia":"cada 15 días",
+    "etapa":"Plantas más de 1 año",
+    "id_planta":4,
+    "id_plaga":"",
+    "id_producto":5
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"20 g/m2",
+    "frecuencia":"cada 20 a 25 días",
+    "etapa":"Plantas más de 1 año",
+    "id_planta":4,
+    "id_plaga":"",
+    "id_producto":5
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"20 g/m2",
+    "frecuencia":"1 vez al mes",
+    "etapa":"Plantas más de 1 año",
+    "id_planta":4,
+    "id_plaga":"",
+    "id_producto":5
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"35 g/m2",
+    "frecuencia":"cada 15 días",
+    "etapa":"Plantas nuevas",
+    "id_planta":4,
+    "id_plaga":"",
+    "id_producto":5
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"35 g/m2",
+    "frecuencia":"cada 15 días",
+    "etapa":"Plantas nuevas",
+    "id_planta":4,
+    "id_plaga":"",
+    "id_producto":5
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"20 g/m2",
+    "frecuencia":"cada 20 a 25 días",
+    "etapa":"Plantas nuevas",
+    "id_planta":4,
+    "id_plaga":"",
+    "id_producto":5
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"20 g/m2",
+    "frecuencia":"1 vez al mes",
+    "etapa":"Plantas nuevas",
+    "id_planta":4,
+    "id_plaga":"",
+    "id_producto":5
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"80 g",
+    "frecuencia":"cada 15 días",
+    "etapa":"Plantas más de 1 año",
+    "id_planta":5,
+    "id_plaga":"",
+    "id_producto":6
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"40 g",
+    "frecuencia":"cada 15 días",
+    "etapa":"Plantas más de 1 año",
+    "id_planta":5,
+    "id_plaga":"",
+    "id_producto":6
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"25 g",
+    "frecuencia":"cada 20 a 25 días",
+    "etapa":"Plantas más de 1 año",
+    "id_planta":5,
+    "id_plaga":"",
+    "id_producto":6
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"20 g",
+    "frecuencia":"1 vez al mes",
+    "etapa":"Plantas más de 1 año",
+    "id_planta":5,
+    "id_plaga":"",
+    "id_producto":6
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"40 g",
+    "frecuencia":"cada 15 días",
+    "etapa":"Plantas nuevas",
+    "id_planta":5,
+    "id_plaga":"",
+    "id_producto":6
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"30 g",
+    "frecuencia":"cada 15 días",
+    "etapa":"Plantas nuevas",
+    "id_planta":5,
+    "id_plaga":"",
+    "id_producto":6
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"25 g",
+    "frecuencia":"cada 20 a 25 días",
+    "etapa":"Plantas nuevas",
+    "id_planta":5,
+    "id_plaga":"",
+    "id_producto":6
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"10 g",
+    "frecuencia":"1 vez al mes",
+    "etapa":"Plantas nuevas",
+    "id_planta":5,
+    "id_plaga":"",
+    "id_producto":6
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"3 g/planta",
+    "frecuencia":"1 vez a la semana",
+    "etapa":"Flores establecidas",
+    "id_planta":6,
+    "id_plaga":"",
+    "id_producto":7
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"3 g/planta",
+    "frecuencia":"1 vez a la semana",
+    "etapa":"Flores establecidas",
+    "id_planta":6,
+    "id_plaga":"",
+    "id_producto":7
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"3 g/planta",
+    "frecuencia":"según necesidad",
+    "etapa":"Flores establecidas",
+    "id_planta":6,
+    "id_plaga":"",
+    "id_producto":7
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"3 g/planta",
+    "frecuencia":"según necesidad",
+    "etapa":"Flores establecidas",
+    "id_planta":6,
+    "id_plaga":"",
+    "id_producto":7
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"3 g/planta",
+    "frecuencia":"1 vez a la semana",
+    "etapa":"Flores nuevas",
+    "id_planta":6,
+    "id_plaga":"",
+    "id_producto":7
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"3 g/planta",
+    "frecuencia":"1 vez a la semana",
+    "etapa":"Flores nuevas",
+    "id_planta":6,
+    "id_plaga":"",
+    "id_producto":7
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"3 g/planta",
+    "frecuencia":"según necesidad",
+    "etapa":"Flores nuevas",
+    "id_planta":6,
+    "id_plaga":"",
+    "id_producto":7
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"3 g/planta",
+    "frecuencia":"según necesidad",
+    "etapa":"Flores nuevas",
+    "id_planta":6,
+    "id_plaga":"",
+    "id_producto":7
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"80 g/planta",
+    "frecuencia":"1 vez a la semana",
+    "etapa":"Plantas más de 1 año",
+    "id_planta":7,
+    "id_plaga":"",
+    "id_producto":8
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"40 g/planta",
+    "frecuencia":"1 vez a la semana",
+    "etapa":"Plantas más de 1 año",
+    "id_planta":7,
+    "id_plaga":"",
+    "id_producto":8
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"",
+    "frecuencia":"",
+    "etapa":"Plantas más de 1 año",
+    "id_planta":7,
+    "id_plaga":"",
+    "id_producto":8
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"",
+    "frecuencia":"",
+    "etapa":"Plantas más de 1 año",
+    "id_planta":7,
+    "id_plaga":"",
+    "id_producto":8
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"40 g/planta",
+    "frecuencia":"1 vez a la semana",
+    "etapa":"Plantas nuevas",
+    "id_planta":7,
+    "id_plaga":"",
+    "id_producto":8
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"40 g/planta",
+    "frecuencia":"1 vez a la semana",
+    "etapa":"Plantas nuevas",
+    "id_planta":7,
+    "id_plaga":"",
+    "id_producto":8
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"",
+    "frecuencia":"",
+    "etapa":"Plantas nuevas",
+    "id_planta":7,
+    "id_plaga":"",
+    "id_producto":8
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"",
+    "frecuencia":"",
+    "etapa":"Plantas nuevas",
+    "id_planta":7,
+    "id_plaga":"",
+    "id_producto":8
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"5 g/planta",
+    "frecuencia":"1 vez a la semana",
+    "etapa":"Más de 1 año",
+    "id_planta":8,
+    "id_plaga":"",
+    "id_producto":9
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"5 g/planta",
+    "frecuencia":"1 vez a la semana",
+    "etapa":"Más de 1 año",
+    "id_planta":8,
+    "id_plaga":"",
+    "id_producto":9
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"3 g/planta",
+    "frecuencia":"según necesidad",
+    "etapa":"Más de 1 año",
+    "id_planta":8,
+    "id_plaga":"",
+    "id_producto":9
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"3 g/planta",
+    "frecuencia":"según necesidad",
+    "etapa":"Más de 1 año",
+    "id_planta":8,
+    "id_plaga":"",
+    "id_producto":9
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"5 g/planta",
+    "frecuencia":"1 vez a la semana",
+    "etapa":"Menos de 1 año",
+    "id_planta":8,
+    "id_plaga":"",
+    "id_producto":9
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"5 g/planta",
+    "frecuencia":"1 vez a la semana",
+    "etapa":"Menos de 1 año",
+    "id_planta":8,
+    "id_plaga":"",
+    "id_producto":9
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"3 g/planta",
+    "frecuencia":"según necesidad",
+    "etapa":"Menos de 1 año",
+    "id_planta":8,
+    "id_plaga":"",
+    "id_producto":9
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"3 g/planta",
+    "frecuencia":"según necesidad",
+    "etapa":"Menos de 1 año",
+    "id_planta":8,
+    "id_plaga":"",
+    "id_producto":9
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"10 g/planta",
+    "frecuencia":"1 vez a la semana",
+    "etapa":"Más de 1 año",
+    "id_planta":9,
+    "id_plaga":"",
+    "id_producto":10
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"10 g/planta",
+    "frecuencia":"1 vez a la semana",
+    "etapa":"Más de 1 año",
+    "id_planta":9,
+    "id_plaga":"",
+    "id_producto":10
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"10 g/planta",
+    "frecuencia":"según necesidad",
+    "etapa":"Más de 1 año",
+    "id_planta":9,
+    "id_plaga":"",
+    "id_producto":10
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"10 g/planta",
+    "frecuencia":"según necesidad",
+    "etapa":"Más de 1 año",
+    "id_planta":9,
+    "id_plaga":"",
+    "id_producto":10
+  },
+  {
+    "epoca_anual":"Primavera",
+    "dosificacion":"5 g/planta",
+    "frecuencia":"1 vez a la semana",
+    "etapa":"Menos de 1 año",
+    "id_planta":9,
+    "id_plaga":"",
+    "id_producto":10
+  },
+  {
+    "epoca_anual":"Verano",
+    "dosificacion":"5 g/planta",
+    "frecuencia":"1 vez a la semana",
+    "etapa":"Menos de 1 año",
+    "id_planta":9,
+    "id_plaga":"",
+    "id_producto":10
+  },
+  {
+    "epoca_anual":"Otoño",
+    "dosificacion":"5 g/planta",
+    "frecuencia":"según necesidad",
+    "etapa":"Menos de 1 año",
+    "id_planta":9,
+    "id_plaga":"",
+    "id_producto":10
+  },
+  {
+    "epoca_anual":"Invierno",
+    "dosificacion":"5 g/planta",
+    "frecuencia":"según necesidad",
+    "etapa":"Menos de 1 año",
+    "id_planta":9,
+    "id_plaga":"",
+    "id_producto":10
+  },
+  {
+    "epoca_anual":"En supreficies muy absorventes asperjar 30 cc a 40 cc en 10 lt de agua",
+    "dosificacion":"Diliur el producto de 30 cc a 40 cc en 5 lt de agua",
+    "frecuencia":"Rendimiento aproximado 100 m2",
+    "etapa":"volador",
+    "id_planta":"",
+    "id_plaga":8,
+    "id_producto":11
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes asperjar 30 cc a 40 cc en 10 lt de agua",
+     "dosificacion":"Diliur el producto de 30 cc a 40 cc en 5 lt de agua",
+     "frecuencia":"Rendimiento aproximado 100 m2",
+     "etapa":"volador",
+     "id_planta":"",
+     "id_plaga":2,
+     "id_producto":11
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes asperjar 30 cc a 40 cc en 10 lt de agua",
+     "dosificacion":"Diliur el producto de 30 cc a 40 cc en 5 lt de agua",
+     "frecuencia":"Rendimiento aproximado 100 m2",
+     "etapa":"volador",
+     "id_planta":"",
+     "id_plaga":9,
+     "id_producto":11
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes asperjar 30 cc a 40 cc en 10 lt de agua",
+     "dosificacion":"Diliur el producto de 30 cc a 40 cc en 5 lt de agua",
+     "frecuencia":"Rendimiento aproximado 100 m2",
+     "etapa":"volador",
+     "id_planta":"",
+     "id_plaga":11,
+     "id_producto":11
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes asperjar 30 cc a 40 cc en 10 lt de agua",
+     "dosificacion":"Diliur el producto de 30 cc a 40 cc en 5 lt de agua",
+     "frecuencia":"Rendimiento aproximado 100 m2",
+     "etapa":"volador",
+     "id_planta":"",
+     "id_plaga":13,
+     "id_producto":11
+   },{
+          "epoca_anual":"En supreficies muy absorventes asperjar 40 cc a 50 cc en 10 lt de agua",
+          "dosificacion":"Diliur el producto de 40 cc a 50 cc en 5 lt de agua",
+          "frecuencia":"Rendimiento aproximado 100 m2",
+          "etapa":"rastrero",
+          "id_planta":"",
+          "id_plaga":12,
+          "id_producto":11
+        },
+   {
+          "epoca_anual":"En supreficies muy absorventes asperjar 40 cc a 50 cc en 10 lt de agua",
+          "dosificacion":"Diliur el producto de 40 cc a 50 cc en 5 lt de agua",
+          "frecuencia":"Rendimiento aproximado 100 m2",
+          "etapa":"rastrero",
+          "id_planta":"",
+          "id_plaga":7,
+          "id_producto":11
+        },
+   {
+     "epoca_anual":"En supreficies muy absorventes asperjar 40 cc a 50 cc en 10 lt de agua",
+     "dosificacion":"Diliur el producto de 40 cc a 50 cc en 5 lt de agua",
+     "frecuencia":"Rendimiento aproximado 100 m2",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":4,
+     "id_producto":11
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes asperjar 40 cc a 50 cc en 10 lt de agua",
+     "dosificacion":"Diliur el producto de 40 cc a 50 cc en 5 lt de agua",
+     "frecuencia":"Rendimiento aproximado 100 m2",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":10,
+     "id_producto":11
+   },
+       {
+         "epoca_anual":"En supreficies muy absorventes asperjar 40 cc a 50 cc en 10 lt de agua",
+         "dosificacion":"Diliur el producto de 40 cc a 50 cc en 5 lt de agua",
+         "frecuencia":"Rendimiento aproximado 100 m2",
+         "etapa":"rastrero",
+         "id_planta":"",
+         "id_plaga":6,
+         "id_producto":11
+       },
+   {
+     "epoca_anual":"En supreficies muy absorventes asperjar 40 cc a 50 cc en 10 lt de agua",
+     "dosificacion":"Diliur el producto de 40 cc a 50 cc en 5 lt de agua",
+     "frecuencia":"Rendimiento aproximado 100 m2",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":5,
+     "id_producto":11
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes asperjar 40 cc a 50 cc en 10 lt de agua",
+     "dosificacion":"Diliur el producto de 40 cc a 50 cc en 5 lt de agua",
+     "frecuencia":"Rendimiento aproximado 100 m2",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":1,
+     "id_producto":11
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes asperjar 40 cc a 50 cc en 10 lt de agua",
+     "dosificacion":"Diliur el producto de 40 cc a 50 cc en 5 lt de agua",
+     "frecuencia":"Rendimiento aproximado 100 m2",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":0,
+     "id_producto":11
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes asperjar 40 cc a 50 cc en 10 lt de agua",
+     "dosificacion":"Diliur el producto de 40 cc a 50 cc en 5 lt de agua",
+     "frecuencia":"Rendimiento aproximado 100 m2",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":3,
+     "id_producto":11
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes asperjar 70 cc en 10 lt de agua",
+     "dosificacion":"Diliur el producto de 50 cc a 70 cc en 5 lt de agua",
+     "frecuencia":"Rendimiento aproximado 100 m2",
+     "etapa":"volador",
+     "id_planta":"",
+     "id_plaga":8,
+     "id_producto":12
+   },{
+          "epoca_anual":"En supreficies muy absorventes asperjar 70 cc en 10 lt de agua",
+          "dosificacion":"Diliur el producto de 50 cc a 70 cc en 5 lt de agua",
+          "frecuencia":"Rendimiento aproximado 100 m2",
+          "etapa":"volador",
+          "id_planta":"",
+          "id_plaga":6,
+          "id_producto":12
+        },
+   {
+     "epoca_anual":"En supreficies muy absorventes asperjar 70 cc en 10 lt de agua",
+     "dosificacion":"Diliur el producto de 50 cc a 70 cc en 5 lt de agua",
+     "frecuencia":"Rendimiento aproximado 100 m2",
+     "etapa":"volador",
+     "id_planta":"",
+     "id_plaga":13,
+     "id_producto":12
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes asperjar 70 cc en 10 lt de agua",
+     "dosificacion":"Diliur el producto de 50 cc a 70 cc en 5 lt de agua",
+     "frecuencia":"Rendimiento aproximado 100 m2",
+     "etapa":"volador",
+     "id_planta":"",
+     "id_plaga":2,
+     "id_producto":12
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes asperjar 70 cc en 10 lt de agua",
+     "dosificacion":"Diliur el producto de 50 cc a 70 cc en 5 lt de agua",
+     "frecuencia":"Rendimiento aproximado 100 m2",
+     "etapa":"volador",
+     "id_planta":"",
+     "id_plaga":9,
+     "id_producto":12
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes asperjar 70 cc en 10 lt de agua",
+     "dosificacion":"Diliur el producto de 50 cc a 70 cc en 5 lt de agua",
+     "frecuencia":"Rendimiento aproximado 100 m2",
+     "etapa":"volador",
+     "id_planta":"",
+     "id_plaga":11,
+     "id_producto":12
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes asperjar 100 cc en 10 lt de agua",
+     "dosificacion":"Diliur el producto de 70 cc a 100 cc en 5 lt de agua",
+     "frecuencia":"Rendimiento aproximado 100 m2",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":7,
+     "id_producto":12
+   },{
+          "epoca_anual":"En supreficies muy absorventes asperjar 100 cc en 10 lt de agua",
+          "dosificacion":"Diliur el producto de 70 cc a 100 cc en 5 lt de agua",
+          "frecuencia":"Rendimiento aproximado 100 m2",
+          "etapa":"rastrero",
+          "id_planta":"",
+          "id_plaga":12,
+          "id_producto":12
+        },
+   {
+     "epoca_anual":"En supreficies muy absorventes asperjar 100 cc en 10 lt de agua",
+     "dosificacion":"Diliur el producto de 70 cc a 100 cc en 5 lt de agua",
+     "frecuencia":"Rendimiento aproximado 100 m2",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":4,
+     "id_producto":12
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes asperjar 100 cc en 10 lt de agua",
+     "dosificacion":"Diliur el producto de 70 cc a 100 cc en 5 lt de agua",
+     "frecuencia":"Rendimiento aproximado 100 m2",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":10,
+     "id_producto":12
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes asperjar 100 cc en 10 lt de agua",
+     "dosificacion":"Diliur el producto de 70 cc a 100 cc en 5 lt de agua",
+     "frecuencia":"Rendimiento aproximado 100 m2",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":5,
+     "id_producto":12
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes asperjar 100 cc en 10 lt de agua",
+     "dosificacion":"Diliur el producto de 70 cc a 100 cc en 5 lt de agua",
+     "frecuencia":"Rendimiento aproximado 100 m2",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":1,
+     "id_producto":12
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes asperjar 100 cc en 10 lt de agua",
+     "dosificacion":"Diliur el producto de 70 cc a 100 cc en 5 lt de agua",
+     "frecuencia":"Rendimiento aproximado 100 m2",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":0,
+     "id_producto":12
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes asperjar 100 cc en 10 lt de agua",
+     "dosificacion":"Diliur el producto de 70 cc a 100 cc en 5 lt de agua",
+     "frecuencia":"Rendimiento aproximado 100 m2",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":3,
+     "id_producto":12
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes subir la dosis al doble",
+     "dosificacion":"Diliur el producto de 12 cc a 17 cc en 1 lt de agua",
+     "frecuencia":"Rendimiento aproximado 20 m2",
+     "etapa":"volador",
+     "id_planta":"",
+     "id_plaga":8,
+     "id_producto":13
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes subir la dosis al doble",
+     "dosificacion":"Diliur el producto de 12 cc a 17 cc en 1 lt de agua",
+     "frecuencia":"Rendimiento aproximado 20 m2",
+     "etapa":"volador",
+     "id_planta":"",
+     "id_plaga":13,
+     "id_producto":13
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes subir la dosis al doble",
+     "dosificacion":"Diliur el producto de 12 cc a 17 cc en 1 lt de agua",
+     "frecuencia":"Rendimiento aproximado 20 m2",
+     "etapa":"volador",
+     "id_planta":"",
+     "id_plaga":2,
+     "id_producto":13
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes subir la dosis al doble",
+     "dosificacion":"Diliur el producto de 12 cc a 17 cc en 1 lt de agua",
+     "frecuencia":"Rendimiento aproximado 20 m2",
+     "etapa":"volador",
+     "id_planta":"",
+     "id_plaga":9,
+     "id_producto":13
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes subir la dosis al doble",
+     "dosificacion":"Diliur el producto de 12 cc a 17 cc en 1 lt de agua",
+     "frecuencia":"Rendimiento aproximado 20 m2",
+     "etapa":"volador",
+     "id_planta":"",
+     "id_plaga":13,
+     "id_producto":13
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes subir la dosis al doble",
+     "dosificacion":"Diliur el producto de 10 cc a 15 cc en 1 lt de agua",
+     "frecuencia":"Rendimiento aproximado 20 m2",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":7,
+     "id_producto":13
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes subir la dosis al doble",
+     "dosificacion":"Diliur el producto de 10 cc a 15 cc en 1 lt de agua",
+     "frecuencia":"Rendimiento aproximado 20 m2",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":4,
+     "id_producto":13
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes subir la dosis al doble",
+     "dosificacion":"Diliur el producto de 10 cc a 15 cc en 1 lt de agua",
+     "frecuencia":"Rendimiento aproximado 20 m2",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":10,
+     "id_producto":13
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes subir la dosis al doble",
+     "dosificacion":"Diliur el producto de 10 cc a 15 cc en 1 lt de agua",
+     "frecuencia":"Rendimiento aproximado 20 m2",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":5,
+     "id_producto":13
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes subir la dosis al doble",
+     "dosificacion":"Diliur el producto de 10 cc a 15 cc en 1 lt de agua",
+     "frecuencia":"Rendimiento aproximado 20 m2",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":1,
+     "id_producto":13
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes subir la dosis al doble",
+     "dosificacion":"Diliur el producto de 10 cc a 15 cc en 1 lt de agua",
+     "frecuencia":"Rendimiento aproximado 20 m2",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":0,
+     "id_producto":13
+   },
+   {
+     "epoca_anual":"En supreficies muy absorventes subir la dosis al doble",
+     "dosificacion":"Diliur el producto de 10 cc a 15 cc en 1 lt de agua",
+     "frecuencia":"Rendimiento aproximado 20 m2",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":3,
+     "id_producto":13
+   },
+   {
+     "epoca_anual":"Para ambientes de mayor volumen, aumentar proporcionalmente la cantidad de aerosoles.",
+     "dosificacion":"Aplicar nube de aerosol directo del envase",
+     "frecuencia":"Rendimiento aproximado 60 m3",
+     "etapa":"volador",
+     "id_planta":"",
+     "id_plaga":8,
+     "id_producto":14
+   },
+   {
+     "epoca_anual":"Para ambientes de mayor volumen, aumentar proporcionalmente la cantidad de aerosoles.",
+     "dosificacion":"Aplicar nube de aerosol directo del envase",
+     "frecuencia":"Rendimiento aproximado 60 m3",
+     "etapa":"volador",
+     "id_planta":"",
+     "id_plaga":2,
+     "id_producto":14
+   },
+   {
+     "epoca_anual":"Para ambientes de mayor volumen, aumentar proporcionalmente la cantidad de aerosoles.",
+     "dosificacion":"Aplicar nube de aerosol directo del envase",
+     "frecuencia":"Rendimiento aproximado 60 m3",
+     "etapa":"volador",
+     "id_planta":"",
+     "id_plaga":9,
+     "id_producto":14
+   },
+   {
+     "epoca_anual":"Para ambientes de mayor volumen, aumentar proporcionalmente la cantidad de aerosoles.",
+     "dosificacion":"Aplicar nube de aerosol directo del envase (120cc)",
+     "frecuencia":"Rendimiento aproximado 60 m3",
+     "etapa":"volador",
+     "id_planta":"",
+     "id_plaga":11,
+     "id_producto":14
+   },
+   {
+     "epoca_anual":"Para ambientes de mayor volumen, aumentar proporcionalmente la cantidad de aerosoles.",
+     "dosificacion":"Aplicar nube de aerosol directo del envase (400cc)",
+     "frecuencia":"Rendimiento aproximado 200 m3",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":4,
+     "id_producto":14
+   },
+   {
+     "epoca_anual":"Para ambientes de mayor volumen, aumentar proporcionalmente la cantidad de aerosoles.",
+     "dosificacion":"Aplicar nube de aerosol directo del envase (400cc)",
+     "frecuencia":"Rendimiento aproximado 200 m3",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":2,
+     "id_producto":14
+   },
+   {
+     "epoca_anual":"Para ambientes de mayor volumen, aumentar proporcionalmente la cantidad de aerosoles.",
+     "dosificacion":"Aplicar nube de aerosol directo del envase (400cc)",
+     "frecuencia":"Rendimiento aproximado 200 m3",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":7,
+     "id_producto":14
+   },
+   {
+     "epoca_anual":"Para ambientes de mayor volumen, aumentar proporcionalmente la cantidad de aerosoles.",
+     "dosificacion":"Aplicar nube de aerosol directo del envase (400cc)",
+     "frecuencia":"Rendimiento aproximado 200 m3",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":3,
+     "id_producto":14
+   },
+   {
+     "epoca_anual":"Para ambientes de mayor volumen, aumentar proporcionalmente la cantidad de aerosoles.",
+     "dosificacion":"Aplicar nube de aerosol directo del envase (400cc)",
+     "frecuencia":"Rendimiento aproximado 200 m3",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":0,
+     "id_producto":14
+   },
+   {
+     "epoca_anual":"Para ambientes de mayor volumen, aumentar proporcionalmente la cantidad de aerosoles.",
+     "dosificacion":"Aplicar nube de aerosol directo del envase (400cc)",
+     "frecuencia":"Rendimiento aproximado 200 m3",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":5,
+     "id_producto":14
+   },
+   {
+     "epoca_anual":"Para ambientes de mayor volumen, aumentar proporcionalmente la cantidad de aerosoles.",
+     "dosificacion":"Aplicar nube de aerosol directo del envase (400cc)",
+     "frecuencia":"Rendimiento aproximado 200 m3",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":10,
+     "id_producto":14
+   },
+   {
+     "epoca_anual":"Para ambientes de mayor volumen, aumentar proporcionalmente la cantidad de tabletas.",
+     "dosificacion":"1 tableta",
+     "frecuencia":"Rendimiento aproximado 25 a 30 m3",
+     "etapa":"volador",
+     "id_planta":"",
+     "id_plaga":8,
+     "id_producto":15
+   },
+   {
+     "epoca_anual":"Para ambientes de mayor volumen, aumentar proporcionalmente la cantidad de tabletas.",
+     "dosificacion":"1 tableta",
+     "frecuencia":"Rendimiento aproximado 25 a 30 m3",
+     "etapa":"volador",
+     "id_planta":"",
+     "id_plaga":2,
+     "id_producto":15
+   },
+   {
+     "epoca_anual":"Para ambientes de mayor volumen, aumentar proporcionalmente la cantidad de tabletas.",
+     "dosificacion":"1 tableta",
+     "frecuencia":"Rendimiento aproximado 25 a 30 m3",
+     "etapa":"volador",
+     "id_planta":"",
+     "id_plaga":9,
+     "id_producto":15
+   },
+   {
+     "epoca_anual":"Para ambientes de mayor volumen, aumentar proporcionalmente la cantidad de tabletas.",
+     "dosificacion":"1 tableta",
+     "frecuencia":"Rendimiento aproximado 25 a 30 m3",
+     "etapa":"volador",
+     "id_planta":"",
+     "id_plaga":11,
+     "id_producto":15
+   },
+   {
+     "epoca_anual":"Para ambientes de mayor volumen, aumentar proporcionalmente la cantidad de tabletas.",
+     "dosificacion":"1 tableta",
+     "frecuencia":"Rendimiento aproximado 25 a 30 m3",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":4,
+     "id_producto":15
+   },
+   {
+     "epoca_anual":"Para ambientes de mayor volumen, aumentar proporcionalmente la cantidad de tabletas.",
+     "dosificacion":"1 tableta",
+     "frecuencia":"Rendimiento aproximado 25 a 30 m3",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":2,
+     "id_producto":15
+   },
+   {
+     "epoca_anual":"Para ambientes de mayor volumen, aumentar proporcionalmente la cantidad de tabletas.",
+     "dosificacion":"1 tableta",
+     "frecuencia":"Rendimiento aproximado 25 a 30 m3",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":7,
+     "id_producto":15
+   },
+   {
+     "epoca_anual":"Para ambientes de mayor volumen, aumentar proporcionalmente la cantidad de tabletas.",
+     "dosificacion":"1 tableta",
+     "frecuencia":"Rendimiento aproximado 25 a 30 m3",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":3,
+     "id_producto":15
+   },
+   {
+     "epoca_anual":"Para ambientes de mayor volumen, aumentar proporcionalmente la cantidad de tabletas.",
+     "dosificacion":"1 tableta",
+     "frecuencia":"Rendimiento aproximado 25 a 30 m3",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":0,
+     "id_producto":15
+   },
+   {
+     "epoca_anual":"Para ambientes de mayor volumen, aumentar proporcionalmente la cantidad de tabletas.",
+     "dosificacion":"1 tableta",
+     "frecuencia":"Rendimiento aproximado 25 a 30 m3",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":5,
+     "id_producto":15
+   },
+   {
+     "epoca_anual":"Para ambientes de mayor volumen, aumentar proporcionalmente la cantidad de tabletas.",
+     "dosificacion":"1 tableta",
+     "frecuencia":"Rendimiento aproximado 25 a 30 m3",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":10,
+     "id_producto":15
+   },
+   {
+     "epoca_anual":"Se transmite de insecto a insecto al ser gel.",
+     "dosificacion":"Aplicar 10 puntos de gel de  0,05g",
+     "frecuencia":"Según la distancia de aplicación de los puntos",
+     "etapa":"rastrero",
+     "id_planta":"",
+     "id_plaga":4,
+     "id_producto":16
+   },
+   {
+     "epoca_anual":"Potente raticida de ingestión.\Los roedores mueren a los 5-8 días, lejos del lugar de consumo.\nSu presentacion de cebo lo hace altamente aceptable por los roedores.",
+     "dosificacion":"30gr cada 3 metros.",
+     "frecuencia":"Reponer cada 18 días.",
+     "etapa":"roedor",
+     "id_planta":"",
+     "id_plaga":15,
+     "id_producto":17
+      },
+
+      {
+       "epoca_anual":"Potente raticida de ingestión.\Los roedores mueren a los 5-8 días, lejos del lugar de consumo.\nSu presentacion de cebo lo hace altamente aceptable por los roedores.",
+       "dosificacion":"20gr cada 4 metros.",
+       "frecuencia":"Reponer cada 18 días.",
+       "etapa":"roedor",
+       "id_planta":"",
+       "id_plaga":14,
+       "id_producto":17
+       },
+       {
+        "epoca_anual":"Potente raticida de ingestión.\Los roedores mueren a los 5-8 días, lejos del lugar de consumo.\nSu presentacion de cebo lo hace altamente aceptable por los roedores.",
+        "dosificacion":"20gr cada 4 metros.",
+        "frecuencia":"Reponer cada 20 días.",
+        "etapa":"roedor",
+        "id_planta":"",
+        "id_plaga":14,
+        "id_producto":18
+        },
+        {
+         "epoca_anual":"Potente raticida de ingestión.\Los roedores mueren a los 5-8 días, lejos del lugar de consumo.\nSu presentacion de cebo lo hace altamente aceptable por los roedores.",
+         "dosificacion":"40gr cada 4 metros.",
+         "frecuencia":"Reponer cada 20 días.",
+         "etapa":"roedor",
+          "id_planta":"",
+          "id_plaga":15,
+          "id_producto":18
+        },
+        {
+           "epoca_anual":"Controlar babosas y caracoles, en jardines y plantas ornamentales.",
+           "dosificacion":"100gr para 100mt²",
+           "frecuencia":"Decisión Personal",
+           "etapa":"molusco",
+           "id_planta":"",
+           "id_plaga":16,
+           "id_producto":20
+        }
+ ]

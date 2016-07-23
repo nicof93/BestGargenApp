@@ -1,0 +1,128 @@
+[
+  {
+    "nombre":"Fertilizante Super Urea +",
+    "objetivo":"Intensificar el color verde de las hojas",
+    "tipo":"generico",
+    "link":""
+  },
+  {
+    "nombre":"Fertilizante Super Triple +",
+    "objetivo":"Incentiva el desarrollo de raíces y aumenta la defensa natural de la planta",
+    "tipo":"generico",
+    "link":""
+  },
+  {
+    "nombre":"Fertilizante Super Potasico +",
+    "objetivo":"Aumenta  la floración.\nIntensifica el color y el aroma de las flores y frutos",
+    "tipo":"generico",
+    "link":""
+  },
+  {
+    "nombre":"Fertilizante para Rosas 12-14-4",
+    "objetivo":"Aplicaciones de este fertilizante intensificará los colores de las Rosas tanto en sus pétalos como en hojas y tallos.\nFertilizante formulado con la totalidad de los nutrientes necesarios para obtener una mejor floración y prolongar la vida de las Rosas.\nEstimula el crecimiento integral de las Rosas, manteniéndolas más resistentes al ataque de plagas y enfermedades.",
+    "tipo":"especifico",
+    "link":""
+  },
+  {
+    "nombre":"Fertilizante para Flores Acidas 15-4-7",
+    "objetivo":"Aplicaciones de este fertilizante intensificará los colores azules, lilas, rojos, etc. de las flores.\nFertilizante formulado con la totalidad de los nutrientes necesarios para obtener una mejor floración y prolongar la vida de las flores.\nEstimula el crecimiento integral de las plantas, conservando flores más vigorosas.",
+    "tipo":"especifico",
+    "link":""
+  },
+  {
+    "nombre":"Fertilizante para Cesped 23-4-5",
+    "objetivo":"Mantiene el césped fuerte y sano tanto en sus hojas como en las raíces. \nFertilizante formulado con la totalidad de los nutrientes necesarios para prolongar la vida del pasto.\nAumenta la resistencia a enfermedades y ataque de hongos.",
+    "tipo":"especifico",
+    "link":""
+  },
+  {
+    "nombre":"Fertilizante para Flores de Jardín\ny Plantas de Maceteros 18-5-9",
+    "objetivo":"Completo nutriente listo para aplicar a todo tipo de plantas de interior y exterior que requieren de mayores cuidados.\nEspecialmente recomendado para aplicar en todo tipo de plantas que florezcan, como las de estación, cubresuelos y arbustos de flor.\nEstimula el crecimiento integral de las plantas, conservando el follaje y las flores más vigorosas y libre de enfermedades",
+    "tipo":"especifico",
+    "link":""
+  },
+  {
+    "nombre":"Fertilizante para Orquídeas 20-10-10",
+    "objetivo":"Fertilizante formulado con todos los nutrientes necesarios para favorecer el desarrollo equilibrado de la planta.\nMantener las orquídeas en un lugar bien iluminado, pero sin sol directo.",
+    "tipo":"especifico",
+    "link":""
+  },
+  {
+    "nombre":"Fertilizante para Hortensias",
+    "objetivo":"Los elementos del azulador de Hortensias (Sulfato de Aluminio), favorecen la acidez del suelo y permiten conservar el color azul de las flores por más tiempo.",
+    "tipo":"especifico",
+    "link":""
+  },
+  {
+    "nombre":"Fertilizante para Cactus 5-8-5",
+    "objetivo":"Fertilizante especial para el cultivo de toda variedad de cactus y plantas suculentas en general.\nContiene Nitrógeno, Fósforo, Potasio, Magnesio, Boro, Cobre, Hierro, Azufre entre otros microelementos.",
+    "tipo":"especifico",
+    "link":""
+  },
+  {
+    "nombre":"Fertilizante para Bulbos 18-15-12",
+    "objetivo":"Completo nutriente, listo para aplicar a todo tipo de bulbos.\nEstimula el crecimiento integral de la planta, conservándola más fuerte y vigorosa.",
+    "tipo":"especifico",
+    "link":""
+  },
+  {
+     "nombre":"Insecticida CiperPoint 20 ec Ingrediente activo: Cipermetrina",
+     "objetivo":"Insecticida piretroide de largo efecto residual y amplio espectro de acción.\nNo mancha ni deja olores\nSu acción es por contacto e ingesta, atacando sistema nervioso del insecto.",
+     "tipo":"insecticida",
+     "link":""
+  },
+  {
+         "nombre":"Insecticida Premium Flo 6 sc Ingrediente activo: Alphacipermetrina",
+         "objetivo":"Insecticida piretroide de largo efecto residual y amplio espectro de acción.\nLibre de solventes.\nRecomendado para uso en lugares donde se necesite reingreso rápido.",
+         "tipo":"insecticida",
+         "link":""
+       },
+       {
+         "nombre":"Insecticida GlacoXan C-10 Ingrediente activo: Cipermetrima microemulsión",
+         "objetivo":"Piretroide de toxicidad moderada en mamíferos.\nRápida acción de desalojo y excelente recidualidad.\nAplicar en el exterior y nunca en lugares donde se procesan alimentos.",
+         "tipo":"insecticida",
+         "link":""
+       },
+       {
+         "nombre":"Insecticida Aerosol FumiXan FOG Válvula de Descarga Total",
+         "objetivo":"Insecticida en aerosol en base a deltametrina y tetrametrina.\nProducto con gran poder de volteo y mortalidad.\nLibera una niebla que permite el alcance de rincones difíciles.",
+         "tipo":"insecticida",
+         "link":""
+       },
+       {
+         "nombre":"FumiXan PRO en Tabletas Fumigenas",
+         "objetivo":"Insecticida en base a piretroides y carbamatos.\nControla plagas domésticas.\nacción inmediata con un gran poder de volteo.",
+         "tipo":"insecticida",
+         "link":""
+       },
+       {
+          "nombre":"CucaXan Gel",
+          "objetivo":"Insecticida en gel que se transmite de un insecto a otro.\npermanece activa por 3 meses.\no mancha, no deja olores y no es nocivo para las personas.\nUsa feromonas sexuales para atraer insectos.",
+          "tipo":"insecticida",
+          "link":""
+       },
+       {
+          "nombre":"Raticida Ratador Pellet para Uso en Interiores",
+          "objetivo":"Potente raticida anticoagulante.\nControla todo tipo de ratas, ratones y lauchas con una sola dosis de ingestión.\nLos roedores mueren a los 5-8 días después de la ingesta, lejos del lugar de consumo.\nSu presentación en cebo es muy aceptada por los reodores.",
+          "tipo":"raticida",
+          "link":""
+       },
+       {
+          "nombre":"Raticida Ratador MiniBloque para Uso en Exteriores",
+          "objetivo":"Potente raticida anticoagulante.\nControla todo tipo de ratas, ratones y lauchas con una sola dosis de ingestión.\nLos roedores mueren a los 5-8 días después de la ingesta, lejos del lugar de consumo.\nSu presentación en cebo es muy aceptada por los reodores.",
+          "tipo":"raticida",
+          "link":""
+       },
+       {
+          "nombre":"Herbicida Roundup",
+          "objetivo":"Ideal para el control de: Todo tipo de Malezas gramíneas, ciperáceas y de hoja ancha.",
+          "tipo":"herbicida",
+          "link":""
+       },
+       {
+          "nombre":"Molusquicida Clartex+R",
+          "objetivo":"Controlar babosas y caracoles, en jardines y plantas ornamentales.",
+          "tipo":"Molusquicida",
+          "link":""
+       }
+]

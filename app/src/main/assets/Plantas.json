@@ -1,0 +1,42 @@
+[
+  {
+    "nombre":"Arboles Ornamentales y Frutales",
+    "descripcion":"Todo tipo de arboles ornamentales y frutales"
+  },
+  {
+    "nombre":"Arbustos",
+    "descripcion":"Todo tipo de arbustos"
+  },
+  {
+    "nombre":"Rosas",
+    "descripcion":"Todo tipo de Rosales como Botánicos o Antiguos, Arbustivos de Flores Grandes, Floribundas, Polyanthas, Miniaturas, Trepadoras, Wichuraíanas, Multifloras de Tallo Alto y otras similares."
+  },
+  {
+    "nombre":"Flores Acidas",
+    "descripcion":"Azaleas, Camelias, Hortensias, Rododendros, Begonias, Jazmín del Cabo, Gardenias, Helechos, Fucsias, Ericas, Diamelos, Rosa Multiflora entre otras variedades."
+  },
+  {
+    "nombre":"Cesped",
+    "descripcion":"Todas las variedades de pasto, tales como: Bermuda, Dichondra, Chépica Alemana, Resiembra, Palmetas y en diferentes mezclas."
+  },
+  {
+    "nombre":"Flores de Jardín\ny Plantas de Maceteros",
+    "descripcion":"Flores de Jardín: Alegría del Hogar, Begonias, Caléndulas, Cinerarias. Dalias, Filodendros, Fucsias, Lobelias, Orejas de Oso, Pensamientos, Petunias, Prímulas, Salvias, Hibiscos, Lavandas, Laurentinas, Flor de la Pluma, Verónicas, Scheffleras, Violas entre otras variedades.\n\nAplicar en Plantas de Maceteros: Aralias, Calla de Flor, Corona del Inca, Crotones, Ficus spp, Lilium en Flor, Palmeras de Interior, Bouganvillea, Verónicas, Vinca, Magnolias, Hiedras entre otras variedades."
+  },
+  {
+    "nombre":"Orquídeas",
+    "descripcion":"Orquídeas"
+  },
+  {
+    "nombre":"Hortensias",
+    "descripcion":"Hortensias"
+  },
+  {
+    "nombre":"Cactus",
+    "descripcion":"Todo tipo de Cactus Ornamentales y Familia de Suculentas como Agaváceas, Aiozoáceas, Crasuláceas, Liliáceas, Portuláceas, Apocináceas, Asclepiadáceas, Cactáceas, Compuestas, Euforbiáceas entre otras."
+  },
+  {
+    "nombre":"Bulbos",
+    "descripcion":"Todo tipo de Bulbos como Narciso, Azucena, Tulipán, Jacinto, Agapanto, Violetas, Fresia, Lirio, Begonia, Dalia, Astromeria, Gladiolo, entre otros."
+  }
+]

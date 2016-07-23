@@ -1,0 +1,87 @@
+[
+  {
+    "id_plaga":0,
+    "nombre_plaga":"Alacrán",
+    "descripción plaga":""
+  },
+  {
+    "id_plaga":1,
+    "nombre_plaga":"Araña de Rincón",
+    "descripción plaga":""
+  },
+  {
+    "id_plaga":2,
+    "nombre_plaga":"Avispa",
+    "descripción plaga":""
+  },
+  {
+    "id_plaga":3,
+    "nombre_plaga":"Chinche",
+    "descripción plaga":""
+  },
+  {
+    "id_plaga":4,
+    "nombre_plaga":"Cucaracha",
+    "descripción plaga":""
+  },
+  {
+    "id_plaga":5,
+    "nombre_plaga":"Garrapata",
+    "descripción plaga":""
+  },
+  {
+    "id_plaga":6,
+    "nombre_plaga":"Gorgojos",
+    "descripción plaga":""
+  },
+  {
+    "id_plaga":7,
+    "nombre_plaga":"Hormiga",
+    "descripción plaga":""
+  },
+  {
+    "id_plaga":8,
+    "nombre_plaga":"Mosca",
+    "descripción plaga":""
+  },
+  {
+    "id_plaga":9,
+    "nombre_plaga":"Polilla",
+    "descripción plaga":""
+  },
+  {
+    "id_plaga":10,
+    "nombre_plaga":"Pulga",
+    "descripción plaga":""
+  },
+  {
+    "id_plaga":11,
+    "nombre_plaga":"Tábano",
+    "descripción plaga":""
+  },
+  {
+    "id_plaga":12,
+    "nombre_plaga":"Tijereta",
+    "descripción plaga":""
+  },
+  {
+     "id_plaga":13,
+     "nombre_plaga":"Zancudo",
+     "descripción plaga":""
+  },
+  {
+    "id_plaga":14,
+    "nombre_plaga":"Ratón",
+    "descripción plaga":"roedor"
+  },
+  {
+    "id_plaga":15,
+    "nombre_plaga":"Rata",
+    "descripción plaga":"roedor"
+    },
+    {
+     "id_plaga":16,
+     "nombre_plaga":"Caracoles",
+     "descripción plaga":"molusco"
+    }
+]

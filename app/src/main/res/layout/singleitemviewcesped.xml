@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/cesped_fondo">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="15dp">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="4dp"
+        android:background="@drawable/border_spinners"
+        android:orientation="vertical">
+
+         <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/ivimagencesped"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_gravity="center"
+                    android:layout_margin="4dp"
+                    android:background="#000000"
+                    android:padding="1dp"/>
+          </LinearLayout>
+
+           <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/txtNombreCesped"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bordes_titulos"
+                    android:gravity="center"
+                    android:textStyle="bold"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="@color/white"
+                    android:text="@string/nombrePlagalabel" />
+
+                <TextView
+                    android:id="@+id/txtnombreCesped"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:layout_gravity="center"
+                    android:textStyle="bold"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/white"
+                    android:layout_toRightOf="@+id/nombrePlagalabel" />
+           </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textStyle="bold"
+                    android:text="Producto Sugerido"
+                    android:background="@drawable/bordes_titulos"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="@color/white"/>
+
+                <TextView
+                    android:id="@+id/txtproductoCesped"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textStyle="bold"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/white"/>
+
+            </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imgimagenProductoCesped"
+                android:layout_width="100dp"
+                android:layout_height="178dp"
+                android:layout_margin="4dp"
+                android:layout_gravity="center"/>
+            </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:background="@drawable/bordes_titulos"
+                android:text="Objetivo Del Producto"
+                android:textStyle="bold"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/white"/>
+
+            <TextView
+                android:id="@+id/txtobjetivocesped"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_margin="4dp"
+                android:textColor="@color/white"/>
+
+            </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bordes_titulos"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:text="Contenido del producto "
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/white"/>
+
+            <TextView
+                android:id="@+id/txtContenidoProducto"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_margin="4dp"
+                android:textColor="@color/white"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bordes_titulos"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:text="Aplicacion del Producto"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/white"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center">
+
+            <info.hoang8f.android.segmented.SegmentedGroup
+                android:id="@+id/rbtgAplicacionCesped"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:id="@+id/rbtSiembra"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Siembra"
+                    android:checked="true"
+                    android:enabled="false"
+                    android:onClick="cambiodeLayout"
+                    style="@style/RadioButton" />
+
+            </info.hoang8f.android.segmented.SegmentedGroup>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center"
+            android:layout_margin="5dp">
+
+            <TableLayout
+                android:id="@+id/lyAplicacionCesped"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="visible"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/table_border">
+
+                <TableRow
+                    android:id="@+id/Cabecera"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/cell_shape">
+
+                    <TextView
+                        android:id="@+id/ColumnaAnio"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5dp"
+                        android:text="Epoca"
+                        android:textColor="@color/white"/>
+
+                    <TextView
+                        android:id="@+id/ColumnaCiudad"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5dp"
+                        android:text="Dosificación"
+                        android:textColor="@color/white"/>
+
+                    <TextView
+                        android:id="@+id/ColumnaOro"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5dp"
+                        android:text="Frecuencia de corte"
+                        android:textColor="@color/white"/>
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/tablaPrimavera"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:background="@drawable/cell_shape"
+                        android:id="@+id/ColumnaPrimavera"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5dp"
+                        android:text="Primavera"
+                        android:textColor="@color/white"/>
+
+                    <TextView
+                        android:id="@+id/ColumnaDosificacion"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5dp"
+                        android:text="1 kg/ 20 m2"
+                        android:textColor="@color/white"/>
+
+                    <TextView
+                        android:id="@+id/ColumnaFrecuencia"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5dp"
+                        android:text="cada 7 días"
+                        android:textColor="@color/white"/>
+                </TableRow>
+                <TableRow
+                    android:id="@+id/tablaVerano"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" >
+
+                    <TextView
+                        android:background="@drawable/cell_shape"
+                        android:id="@+id/ColumnaVerano"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5dp"
+                        android:text="Verano"
+                        android:textColor="@color/white"/>
+
+                    <TextView
+                        android:id="@+id/ColumnaDosificacionVerano"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:padding="5dp"
+                        android:text="1 kg/ 20 m2"
+                        android:textColor="@color/white"/>
+
+                    <TextView
+                        android:id="@+id/ColumnaFrecuenciaVerano"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5dp"
+                        android:text="cada 7 días"
+                        android:textColor="@color/white"/>
+                </TableRow>
+                <TableRow
+                    android:id="@+id/tablaOtaño"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" >
+
+                    <TextView
+                        android:background="@drawable/cell_shape"
+                        android:id="@+id/ColumnaOtoño"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5dp"
+                        android:text="Otoño"
+                        android:textColor="@color/white"/>
+
+                    <TextView
+                        android:id="@+id/ColumnaDosificacionOtoño"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:padding="5dp"
+                        android:text="1 kg/ 25 m2"
+                        android:textColor="@color/white"/>
+
+                    <TextView
+                        android:id="@+id/ColumnaFrecuenciaOtoño"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5dp"
+                        android:text="entre 7 a 10  días"
+                        android:textColor="@color/white"/>
+                </TableRow>
+                <TableRow
+                    android:id="@+id/tablaInvierno"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" >
+
+                    <TextView
+                        android:background="@drawable/cell_shape"
+                        android:id="@+id/ColumnaInvierno"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5dp"
+                        android:text="Invierno"
+                        android:textColor="@color/white"/>
+
+                    <TextView
+                        android:id="@+id/ColumnaDosificacionInvierno"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:padding="5dp"
+                        android:text="1 kg/ 25 m2"
+                        android:textColor="@color/white"/>
+
+                    <TextView
+                        android:id="@+id/ColumnaFrecuenciaInvierno"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5dp"
+                        android:text="cada 10 días"
+                        android:textColor="@color/white"/>
+                </TableRow>
+            </TableLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>
+</RelativeLayout>
