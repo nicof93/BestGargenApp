@@ -1,33 +1,20 @@
 package blackrobot.bestgarden;
 
 import android.app.AlertDialog;
-import android.app.FragmentManager;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
 import android.net.Uri;
-import android.support.v7.app.ActionBarActivity;
-import android.support.v7.app.ActionBar;
-import android.support.v4.app.Fragment;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
-import android.view.KeyEvent;
-import android.view.LayoutInflater;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.view.View;
-import android.view.ViewGroup;
-import android.os.Build;
 import android.view.Window;
-import android.widget.Toast;
-import android.os.Handler;
-
-import com.blackrobot.bestgarden.DaoMaster;
 
 
-public class BestGardenActivity extends ActionBarActivity {
+public class BestGardenActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -87,13 +74,7 @@ public class BestGardenActivity extends ActionBarActivity {
     }
 
     public void onClickHomeCenter(View v){
-        //Intent open = new Intent(Intent.ACTION_VIEW, Uri.parse("http://www.sodimac.cl/"));
-        Intent open = new Intent(Intent.ACTION_VIEW, Uri.parse("http://goo.gl/VSWcjE"));
+        Intent open = new Intent(Intent.ACTION_VIEW, Uri.parse("https://bit.ly/2F4RrQI"));
         startActivity(open);
     }
-
-    //public void onClickMts(View v){
-       // Intent open = new Intent(Intent.ACTION_VIEW, Uri.parse("http://www.mts.cl/"));
-       // startActivity(open);
-    //}
 }

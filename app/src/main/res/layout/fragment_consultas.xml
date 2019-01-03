@@ -10,22 +10,6 @@
         android:orientation="vertical"
         android:layout_weight="1.7"
         android:id="@+id/lnLogo">
-        <!--ImageView
-            android:src="@drawable/logobotiquin"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_gravity="center"
-            android:id="@+id/logo"
-            android:contentDescription="@string/title" /-->
-        <!--TextView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:gravity="top|center"
-            android:text="Botiquin del Jardin"
-            android:textSize="60dp"
-            android:textColor="@color/green"
-            android:textAppearance="?android:attr/textAppearanceLarge"/-->
-
     </LinearLayout>
 
     <LinearLayout
@@ -49,7 +33,7 @@
                 android:textColor="@color/white"
                 android:layout_height="match_parent"
                 android:gravity="center"
-                android:text="¿Que deseas consultar?"
+                android:text="@string/que_deseas_consultar"
                 android:textAppearance="?android:attr/textAppearanceLarge"                />
 
         </LinearLayout>
@@ -86,7 +70,7 @@
                     android:layout_weight="0"
                     android:textColor="@color/white"
                     android:textAppearance="?android:textAppearanceMedium"
-                    android:text="Fertilizacion"/>
+                    android:text="@string/fertilizacion"/>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -109,7 +93,7 @@
                         android:singleLine="true"
                         android:textColor="@color/white"
                         android:textAppearance="?android:textAppearanceMedium"
-                        android:text="Plagas Hogar"/>
+                        android:text="@string/plagas_hogar"/>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -132,7 +116,7 @@
                         android:singleLine="true"
                         android:textColor="@color/white"
                         android:textAppearance="?android:textAppearanceMedium"
-                        android:text="Ratones"/>
+                        android:text="@string/ratones"/>
                 </LinearLayout>
             </LinearLayout>
             <Space
@@ -166,7 +150,7 @@
                     android:gravity="center"
                     android:textColor="@color/white"
                     android:textAppearance="?android:textAppearanceMedium"
-                    android:text="Plagas Jardin"/>
+                    android:text="@string/plagas_jardin"/>
             </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -188,7 +172,7 @@
                         android:layout_gravity="center"
                         android:textColor="@color/white"
                         android:textAppearance="?android:textAppearanceMedium"
-                        android:text="Semillas Pastos"/>
+                        android:text="@string/semillas_pastos"/>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -210,7 +194,7 @@
                         android:layout_gravity="center"
                         android:textColor="@color/white"
                         android:textAppearance="?android:textAppearanceMedium"
-                        android:text="Maleza"/>
+                        android:text="@string/maleza"/>
                 </LinearLayout>
                 </LinearLayout>
              </LinearLayout>
@@ -233,14 +217,15 @@
         android:layout_gravity="center"
         android:textColor="@color/white"
         android:textAppearance="?android:textAppearanceMedium"
-        android:text=" Encuentranos en: "/>
+        android:text="@string/encuentranos_en"/>
 
     <ImageView
         android:layout_width="60dp"
         android:layout_height="47.5dp"
         android:src="@drawable/sodimacc"
         android:layout_gravity="center"
-        android:onClick="onClickHomeCenter"/>
+        android:onClick="onClickHomeCenter"
+        android:contentDescription="@string/ir_a_homecenter"/>
     </LinearLayout>
 
     </LinearLayout>
