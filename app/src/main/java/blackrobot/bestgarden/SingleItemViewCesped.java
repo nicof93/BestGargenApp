@@ -48,7 +48,7 @@ public class SingleItemViewCesped extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.singleitemviewcesped);
-        getActionBar().hide();
+//        getActionBar().hide();
         context = this;
         // Retrieve data from MainActivity on listview item click
         Intent i = getIntent();

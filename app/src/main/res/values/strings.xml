@@ -11,5 +11,14 @@
     <string name="problema">Tratamiento</string>
     <string name="producto_sugerido">Fertilizante Sugerido</string>
     <string name="objetivo">Mejorar coloracion verde en hojas, aumentar floracion, etc</string>
+    <string name="que_deseas_consultar">¿Que deseas consultar?</string>
+    <string name="fertilizacion">Fertilizacion</string>
+    <string name="plagas_hogar">Plagas Hogar</string>
+    <string name="ratones">Ratones</string>
+    <string name="plagas_jardin">Plagas Jardin</string>
+    <string name="semillas_pastos">Semillas Pastos</string>
+    <string name="maleza">Maleza</string>
+    <string name="encuentranos_en">Encuentranos en:</string>
+    <string name="ir_a_homecenter">Ir a Homecenter</string>
 
 </resources>
